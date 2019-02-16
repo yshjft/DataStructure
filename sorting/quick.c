@@ -1,5 +1,5 @@
 /*
-코드 이해를 완변하게 하지 못함. 이해 완료하면 이 주석을 지울 거임
+quick sorting
 */
 
 #include <stdio.h>
