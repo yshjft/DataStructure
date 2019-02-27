@@ -1,4 +1,4 @@
-//코드 이해 완변하지 못함.... 이후 이해가 완료되면 해당 주석 삭제할 것. 
+
 
 # include<stdio.h>
 # define MAX_SIZE 8
